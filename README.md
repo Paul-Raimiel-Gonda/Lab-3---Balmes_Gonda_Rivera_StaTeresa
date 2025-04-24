@@ -35,11 +35,12 @@ The **Digital Diary** is a modular, console-based application that allows users 
 ## 🗂 File Structure
 /Lab_3__Balmes_Gonda_Rivera_StaTeresa
 │
-├── Program.cs              // Main menu and user interaction
-├── Diary.cs                // Diary class: file operations
-├── Diary/                 
-│   └── diary.txt           // Automatically created log of entries
-└── README.md               // This file
+├── Program.cs  // Main menu and user interaction
+├── Diary.cs  // Diary class: file operations
+├── Bin  //Contains the txt file
+│ └── diary.txt // Automatically created log of entries
+└── README.md // This file
+
 ---
 
 ## 🧪 Sample Output
