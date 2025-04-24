@@ -33,6 +33,8 @@ The **Digital Diary** is a modular, console-based application that allows users 
 ---
 
 ## 🗂 File Structure
+
+```plaintext
 /Lab_3__Balmes_Gonda_Rivera_StaTeresa
 │
 ├── Program.cs  // Main menu and user interaction
@@ -41,7 +43,7 @@ The **Digital Diary** is a modular, console-based application that allows users 
 │ └── diary.txt // Automatically created log of entries
 └── README.md // This file
 
----
+```
 
 ## 🧪 Sample Output
 --- Digital Diary Menu ---
