@@ -1,4 +1,4 @@
-# Digital Diary - C# Console Application  
+# Digital Diary  
 **Lab 3 - CS 222: Advanced Object-Oriented Programming**
 
 ## 📌 Project Description and Features
