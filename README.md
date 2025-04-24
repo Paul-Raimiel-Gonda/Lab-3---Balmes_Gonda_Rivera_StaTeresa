@@ -44,9 +44,12 @@ The **Digital Diary** is a modular, console-based application that allows users 
 └── README.md // This file
 
 ```
+---
 
 ## 🧪 Sample Output
---- Digital Diary Menu ---
+
+```plaintext
+       ~~~~~ | MY DIARY | ~~~~~
 
 1. Write a New Entry
 2. View All Entries
@@ -56,7 +59,7 @@ The **Digital Diary** is a modular, console-based application that allows users 
 Choose an option: 1 
 Enter your diary entry: Finished Lab 3!
 
---- Digital Diary Menu --- 
+       ~~~~~ | MY DIARY | ~~~~~
 
 1. Write a New Entry
 2. View All Entries
@@ -66,7 +69,7 @@ Enter your diary entry: Finished Lab 3!
 Choose an option: 2 
 2025-04-24 18:42:15 - Finished Lab 3!
 
---- Digital Diary Menu --- 
+       ~~~~~ | MY DIARY | ~~~~~
 
 1. Write a New Entry
 2. View All Entries
@@ -77,7 +80,7 @@ Choose an option: 3
 Enter date to search (YYYY-MM-DD): 2025-04-24
 2025-04-24 18:42:15 - Finished Lab 3!
 
---- Digital Diary Menu --- 
+       ~~~~~ | MY DIARY | ~~~~~
 
 1. Write a New Entry
 2. View All Entries
@@ -88,6 +91,7 @@ Choose an option: 4
 
 Exiting diary. Goodbye!
 
+```
 ---
 
 ## 👨‍💻 Team Members
